@@ -1,2 +1,2 @@
 # personal-finance-projects
-# Description: Please see the wiki for a description
+# Description: Please see the wiki for information
